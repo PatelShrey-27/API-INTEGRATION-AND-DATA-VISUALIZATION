@@ -27,3 +27,4 @@ Data Visualization
 With the DataFrame prepared, I moved on to creating a visual representation of the temperature trend. I used Seaborn's lineplot to graph temperature against time, providing a clear visual of how the temperature is expected to change in Mumbai over the forecasted period. To improve readability, I rotated the x-axis labels, added axis labels, a title, and enabled grid lines using Matplotlib functions.
 
 The resulting plot offered a concise yet informative look at weather dynamics over time, allowing viewers to grasp changes in temperature at a glance.
+![Weather graph](https://github.com/user-attachments/assets/9fd93cec-91f8-49ab-b87d-a5ee5b56dd81)
